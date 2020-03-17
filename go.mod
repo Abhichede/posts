@@ -1,3 +1,3 @@
-module github.com/Abhichede/blog/posts
+module github.com/Abhichede/posts
 
 go 1.13
